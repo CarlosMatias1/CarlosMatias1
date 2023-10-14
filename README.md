@@ -49,7 +49,5 @@ object **Carlos** {
 ## Rede sociais
 
 🏡 [Website][website] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
